@@ -6,6 +6,9 @@ description = ""
 image = ""
 tags = []
 title = "This is a test"
+[menu.main]
+name = ""
+weight = 6
 
 +++
 This is really to see if it works if I just put the page here.
