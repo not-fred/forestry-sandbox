@@ -7,7 +7,6 @@ image = ""
 tags = []
 title = "This is a test"
 [menu.main]
-name = ""
 weight = 6
 
 +++
