@@ -1,6 +1,6 @@
 +++
 author = []
-categories = []
+categories = ["Singapore"]
 date = 2022-08-26T15:54:00Z
 description = ""
 image = ""
